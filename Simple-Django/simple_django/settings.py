@@ -1,6 +1,6 @@
 import os
 
-MAGIC_MESSAGE=os.environ.get('MAGIC_MESSAGE')
+MAGIC_MESSAGE = os.environ.get('MAGIC_MESSAGE')
 
 from pathlib import Path
 
